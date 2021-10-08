@@ -30,7 +30,7 @@ body {
 
 h1:hover {
   font-size: 40px;
-  color:#003C5F;
+  color:black;
 }
 
 .des {
@@ -67,7 +67,7 @@ button{
   padding: 60px;
   text-align: center;
   background-color:#09283454;
-  color:white;
+  color: rgb(252, 0, 0);
 }
 
 
