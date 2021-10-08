@@ -1,4 +1,3 @@
-<style type="text/css">
 * {
   margin: 0px;
   padding: 0px;
@@ -63,17 +62,10 @@ button{
 }
 
 
-</style>
-
-
-
-
-
-
 .header {
   padding: 60px;
   text-align: center;
-  background: #092834;
+  background-color:#09283454;
   color:white;
 }
 
@@ -86,7 +78,7 @@ body, html {
 
 .bg {
   /* The image used */
-  background-image: url("flag.jpeg");
+  background-image: url("/flag.jpeg");
 
   /* Full height */
   height: 100%;
