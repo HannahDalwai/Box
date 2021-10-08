@@ -92,19 +92,9 @@ body, html {
 
 
 
-#home{
-  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
+.btnhm{
+ background-color: rgb(252, 0, 0); 
+margin: 170px 0 0 710px;
 }
-a{
-  margin-left: 300%;
-}
-
 
 
